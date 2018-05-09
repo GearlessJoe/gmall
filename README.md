@@ -1,2 +1,2 @@
 # gmall
-gmall init
+gmall init test谁提交的
