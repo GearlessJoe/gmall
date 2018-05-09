@@ -1,2 +1,2 @@
 # gmall
-gmall
+gmall init
